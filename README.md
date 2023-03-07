@@ -1,11 +1,11 @@
+![image](https://user-images.githubusercontent.com/114326008/223489814-d3e08ea9-8e85-4806-bb30-ae1bad83f6c2.png)
 
    
 </p>
 <h1 align="center"> Mobile Price Range Prediction </h1>
 
 
-![Screenshot (28)](https://user-images.githubusercontent.com/102009481/177788412-1f515f71-0654-4a26-9c05-f3598f4f034d.png)
-
+![Screenshot (40)](https://lh3.googleusercontent.com/-uPY3fHw4z0g/Ya5vvewdx1I/AAAAAAAACQ0/r9OA2p61WdIUrlX8L1dx3FdwCjSUG334wCNcBGAsYHQ/minimal-abstract-background-4k-f2-1920x1080%2Bcopy.webp)
 
 
 
