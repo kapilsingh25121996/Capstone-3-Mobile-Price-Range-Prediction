@@ -54,7 +54,7 @@
 
 
 <p><b> Mobile Price Range Prediction-Kapil_Singh.ipynb</b></p>
-<p> This file must be executed, to define all the functions and variables required for classification operations which leads to the production of the model.h5 file. and to evaluate the model performance on unseen data
+<p> This file must be executed, to define all the functions and variables required for classification operations and to evaluate the model performance on unseen data
 
 
 
